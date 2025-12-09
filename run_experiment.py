@@ -26,7 +26,7 @@ from typing import Optional, Tuple, List, Dict
 # CONFIGURATION
 # =============================================================================
 
-API_KEY = "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"
+API_KEY = "<your-api-key>"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 MODELS = [
